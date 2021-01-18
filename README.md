@@ -6,7 +6,7 @@
 - 🌱 I’m currently learning Web dev and Python.
 - 🤔 I’m looking for help with MI and AI.
 - 💬 Ask me about anything related to Web Development.
-- 📫 How to reach me: Twitter -@ItsmeIshwarya
+- 📫 How to reach me: [Twitter -@ItsmeIshwarya](https://twitter.com/ItsmeIshwarya)
 - 😄 Pronouns: She/Her
 - ⚡ Fun fact: Love Music and Learn More about web Dev.
 <!--- 👯 I’m looking to collaborate on .. -->
