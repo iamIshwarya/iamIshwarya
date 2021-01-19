@@ -10,3 +10,5 @@
 - 😄 Pronouns: She/Her
 - ⚡ Fun fact: Love Music and Learn More about web Dev.
 <!--- 👯 I’m looking to collaborate on .. -->
+
+<img src="https://github-readme-stats.vercel.app/api?username=iamIshwarya&&show_icons=true&title_color=ffffff&icon_color=bb2acf&text_color=daf7dc&bg_color=000000">
