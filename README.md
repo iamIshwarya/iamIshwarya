@@ -4,7 +4,6 @@
 
 <!-- - 🔭 I’m currently working on ... -->
 - 🌱 I’m currently learning Web dev and Python.
-- 🤔 I’m looking for help with MI and AI.
 - 💬 Ask me about anything related to Web Development.
 - 📫 How to reach me: [Twitter -@ItsmeIshwarya](https://twitter.com/ItsmeIshwarya)
 - 😄 Pronouns: She/Her
